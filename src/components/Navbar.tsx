@@ -1,7 +1,7 @@
 const Navbar = () => {
   
   return (
-    <nav className="bg-green-1 py-5 px-5 lg:px-10 flex justify-between items-center fixed w-full top-0">
+    <nav className="bg-green-1 py-5 px-5 lg:px-20 flex justify-between items-center fixed w-full top-0 z-[99]">
       <div>
         <img src="./sprintiq-logo.svg" alt="" className="max-w-[106px] lg:max-w-[150px]"/>
       </div>

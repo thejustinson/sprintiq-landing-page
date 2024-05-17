@@ -3,7 +3,7 @@ import Header from "./Header"
 
 const Home = () => {
   return (
-    <div className="radial-gradient">
+    <div className="radial-gradient relative">
       <Header/>
       <About/>
       Team

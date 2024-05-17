@@ -14,7 +14,7 @@ const WhyNowWhoWeAreFor = () => {
       </div>
 
       <div>
-        <div className="w-full max-w-[320px] flex items-center flex-grow-0 flex-shrink-0 lg:pt-32">
+        <div className="w-full max-w-[320px] flex items-center flex-grow-0 flex-shrink-0 lg:pt-32 gap-x-[-10px]">
           <div className="">
             <img src="./subtract-right.png" alt="" className="scale-150 max-h-[275px] lg:max-h-[275px]"/>
           </div>

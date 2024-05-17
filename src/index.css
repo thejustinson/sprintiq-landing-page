@@ -17,4 +17,7 @@
     .text-gradient{
         @apply bg-gradient-to-b from-[#E3F5E8] to-[#95D7A8] bg-clip-text text-transparent;
     }
+    .radial-gradient-2{
+        background: radial-gradient(121.63% 121.63% at 48.08% 51.92%, #008800 11.21%, #28FF15 57.7%, #82E404 70.49%, #187318 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    }
 }

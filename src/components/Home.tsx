@@ -1,4 +1,5 @@
 import About from "./About"
+import GetInTouch from "./GetInTouch"
 import Header from "./Header"
 import Team from "./Team"
 
@@ -8,7 +9,7 @@ const Home = () => {
       <Header/>
       <About/>
       <Team/>
-      Get In Touch
+      <GetInTouch/>
     </div>
   )
 }
